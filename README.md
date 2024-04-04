@@ -1,7 +1,6 @@
 # 디펜스 게임 개발: 프로젝트 소개
 
- [![Video Label](http://img.youtube.com/vi/6CsYmcgk3_M/0.jpg)](https://youtu.be/6CsYmcgk3_M)
- 플레이 영상 링크
+![GIFMaker_me](https://github.com/beaJunWoo/DefenseGameCS/assets/117621575/ee628052-05e9-49f0-95d6-361e5846d6d7)
  
 # 프로젝트 소개<br/>
 이 프로젝트는 Unity를 사용하여 게임을 개발하는 작업을 포함하며, 게임 개발 과정에서 생성된 스크립트만을 포함합니다. <br/>
@@ -9,6 +8,9 @@
 일정 시간동안 적의 공격을 방어하는 게임입니다. <br/>
 특별한 전략이 없더라도, 승리나 패배 시 얻는 게임 머니를 사용하여 유닛을 구매하거나 강화할 수 있습니다.<br/>
 또한 적을 처치함으로써 얻는 돈으로 버프, 스킬을 활용해 강해 질수있습니다.<br/>
+
+ [![Video Label](http://img.youtube.com/vi/6CsYmcgk3_M/0.jpg)](https://youtu.be/6CsYmcgk3_M)
+ 플레이 풀영상 링크
 
 # 개발 기간<br/>
 프로젝트는 약 2개월 반 동안 개발되었으며, 계속해서 업데이트 중입니다.<br/>

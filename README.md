@@ -8,9 +8,11 @@
 일정 시간동안 적의 공격을 방어하는 게임입니다. <br/>
 특별한 전략이 없더라도, 승리나 패배 시 얻는 게임 머니를 사용하여 유닛을 구매하거나 강화할 수 있습니다.<br/>
 또한 적을 처치함으로써 얻는 돈으로 버프, 스킬을 활용해 강해 질수있습니다.<br/>
+
+# 플레이 영상<br/>
 ![GIFMaker_me (1)](https://github.com/beaJunWoo/DefenseGameCS/assets/117621575/0ece0713-7778-456e-8e25-8beca8083aa9)
 
- [![Video Label](http://img.youtube.com/vi/6CsYmcgk3_M/0.jpg)](https://youtu.be/6CsYmcgk3_M)
+ [![Video Label](http://img.youtube.com/vi/6CsYmcgk3_M/0.jpg)](https://youtu.be/6CsYmcgk3_M)<br/>
  플레이 풀영상 링크
 
 # 개발 기간<br/>

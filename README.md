@@ -1,6 +1,6 @@
 # 디펜스 게임 개발: 프로젝트 소개
 
-![GIFMaker_me](https://github.com/beaJunWoo/DefenseGameCS/assets/117621575/ee628052-05e9-49f0-95d6-361e5846d6d7)
+
  
 # 프로젝트 소개<br/>
 이 프로젝트는 Unity를 사용하여 게임을 개발하는 작업을 포함하며, 게임 개발 과정에서 생성된 스크립트만을 포함합니다. <br/>

@@ -12,7 +12,7 @@
 # 플레이 영상<br/>
 ![GIFMaker_me (1)](https://github.com/beaJunWoo/DefenseGameCS/assets/117621575/0ece0713-7778-456e-8e25-8beca8083aa9)
 
- **플레이 풀영상 링크(유튜브)**
+ **플레이 풀영상 링크(유튜브)** <br/>
  [![Video Label](http://img.youtube.com/vi/6CsYmcgk3_M/0.jpg)](https://youtu.be/6CsYmcgk3_M)<br/>
 
 

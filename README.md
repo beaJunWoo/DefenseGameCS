@@ -20,9 +20,9 @@
 프로젝트는 약 2개월 반 동안 개발되었으며, 계속해서 업데이트 중입니다.<br/>
 
 # 외부 라이브러리<br/>
-[Goole Play Games plugin](https://github.com/playgameservices/play-games-plugin-for-unity)<br/>
-[Unity Leaderboard](https://github.com/danqzq/unity-leaderboard-creator)<br/>
-[Google Admod)(https://github.com/googleads/googleads-mobile-unity)<br/>
+-[Goole Play Games plugin](https://github.com/playgameservices/play-games-plugin-for-unity)<br/>
+-[Unity Leaderboard](https://github.com/danqzq/unity-leaderboard-creator)<br/>
+-[Google Admod](https://github.com/googleads/googleads-mobile-unity)<br/>
 
 구글 플레이게임 로그인기능, 랭킹 기능, 광고및 보상기능 추가
 

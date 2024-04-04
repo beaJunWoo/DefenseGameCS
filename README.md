@@ -19,6 +19,13 @@
 # 개발 기간<br/>
 프로젝트는 약 2개월 반 동안 개발되었으며, 계속해서 업데이트 중입니다.<br/>
 
+# 외부 라이브러리<br/>
+[Goole Play Games plugin](https://github.com/playgameservices/play-games-plugin-for-unity)<br/>
+[Unity Leaderboard](https://github.com/danqzq/unity-leaderboard-creator)<br/>
+[Google Admod)(https://github.com/googleads/googleads-mobile-unity)<br/>
+
+구글 플레이게임 로그인기능, 랭킹 기능, 광고및 보상기능 추가
+
 # 개발 과정<br/>
 **1. 첫 프로젝트 실패**<br/>
 초기에 Unity에 익숙해지기 위해 2D로 시작하여 다양한 컴포넌트를 탐색하고 테스트하며 여러 기능을 구현하려고 시도했습니다.<br/>

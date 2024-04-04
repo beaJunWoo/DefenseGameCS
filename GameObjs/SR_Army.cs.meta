@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 720e07c05df156d49adc223e9a17647c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HpBar: {instanceID: 0}
+  - Slider_Hp: {instanceID: 0}
+  - BulletSpawnPos: {instanceID: 0}
+  - SPR_AttackRange: {instanceID: 0}
+  - reload: {instanceID: 0}
+  - reloadImg: {instanceID: 0}
+  - Body: {instanceID: 0}
+  - flashFX: {instanceID: 0}
+  - debuffDataBase: {fileID: 11400000, guid: 33ad2c62a1d4e85468a58f35ffd90c25, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eedd510145a3b0f42bc06e3aaafb4119
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - armyData: {fileID: 11400000, guid: 7bbe193c984b5474fb74ae029d716794, type: 2}
+  - HpBar: {instanceID: 0}
+  - Slider_Hp: {instanceID: 0}
+  - debuffDataBase: {fileID: 11400000, guid: 33ad2c62a1d4e85468a58f35ffd90c25, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -70,3 +70,258 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Editor Default Resources.meta
+Assets/Editor Default Resources/Firebase.meta
+Assets/Editor Default Resources/Firebase/fb_analytics.png
+Assets/Editor Default Resources/Firebase/fb_analytics.png.meta
+Assets/Editor Default Resources/Firebase/fb_analytics_dark.png
+Assets/Editor Default Resources/Firebase/fb_analytics_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_auth.png
+Assets/Editor Default Resources/Firebase/fb_auth.png.meta
+Assets/Editor Default Resources/Firebase/fb_auth_dark.png
+Assets/Editor Default Resources/Firebase/fb_auth_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png
+Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png.meta
+Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png
+Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_config.png
+Assets/Editor Default Resources/Firebase/fb_config.png.meta
+Assets/Editor Default Resources/Firebase/fb_config_dark.png
+Assets/Editor Default Resources/Firebase/fb_config_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_crashlytics.png
+Assets/Editor Default Resources/Firebase/fb_crashlytics.png.meta
+Assets/Editor Default Resources/Firebase/fb_crashlytics_dark.png
+Assets/Editor Default Resources/Firebase/fb_crashlytics_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_database.png
+Assets/Editor Default Resources/Firebase/fb_database.png.meta
+Assets/Editor Default Resources/Firebase/fb_database_dark.png
+Assets/Editor Default Resources/Firebase/fb_database_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_dynamic_links.png
+Assets/Editor Default Resources/Firebase/fb_dynamic_links.png.meta
+Assets/Editor Default Resources/Firebase/fb_dynamic_links_dark.png
+Assets/Editor Default Resources/Firebase/fb_dynamic_links_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_functions.png
+Assets/Editor Default Resources/Firebase/fb_functions.png.meta
+Assets/Editor Default Resources/Firebase/fb_functions_dark.png
+Assets/Editor Default Resources/Firebase/fb_functions_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_invites.png
+Assets/Editor Default Resources/Firebase/fb_invites.png.meta
+Assets/Editor Default Resources/Firebase/fb_invites_dark.png
+Assets/Editor Default Resources/Firebase/fb_invites_dark.png.meta
+Assets/Editor Default Resources/Firebase/fb_storage.png
+Assets/Editor Default Resources/Firebase/fb_storage.png.meta
+Assets/Editor Default Resources/Firebase/fb_storage_dark.png
+Assets/Editor Default Resources/Firebase/fb_storage_dark.png.meta
+Assets/Editor Default Resources/Firebase/firebase_lockup.png
+Assets/Editor Default Resources/Firebase/firebase_lockup.png.meta
+Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png
+Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png.meta
+Assets/ExternalDependencyManager.meta
+Assets/ExternalDependencyManager/Editor.meta
+Assets/ExternalDependencyManager/Editor/1.2.169.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.IOSResolver.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.IOSResolver.dll.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.JarResolver.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.JarResolver.dll.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.PackageManagerResolver.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.PackageManagerResolver.dll.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.VersionHandlerImpl.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.VersionHandlerImpl.dll.meta
+Assets/ExternalDependencyManager/Editor/CHANGELOG.md
+Assets/ExternalDependencyManager/Editor/CHANGELOG.md.meta
+Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.169_manifest.txt
+Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.169_manifest.txt.meta
+Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll
+Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll.meta
+Assets/ExternalDependencyManager/Editor/LICENSE
+Assets/ExternalDependencyManager/Editor/LICENSE.meta
+Assets/ExternalDependencyManager/Editor/README.md
+Assets/ExternalDependencyManager/Editor/README.md.meta
+Assets/Firebase.meta
+Assets/Firebase/Editor.meta
+Assets/Firebase/Editor/AppDependencies.xml
+Assets/Firebase/Editor/AppDependencies.xml.meta
+Assets/Firebase/Editor/AuthDependencies.xml
+Assets/Firebase/Editor/AuthDependencies.xml.meta
+Assets/Firebase/Editor/DatabaseDependencies.xml
+Assets/Firebase/Editor/DatabaseDependencies.xml.meta
+Assets/Firebase/Editor/Firebase.Editor.dll
+Assets/Firebase/Editor/Firebase.Editor.dll.meta
+Assets/Firebase/Editor/FirebaseAuth_version-11.8.1_manifest.txt
+Assets/Firebase/Editor/FirebaseAuth_version-11.8.1_manifest.txt.meta
+Assets/Firebase/Editor/FirebaseDatabase_version-11.8.1_manifest.txt
+Assets/Firebase/Editor/FirebaseDatabase_version-11.8.1_manifest.txt.meta
+Assets/Firebase/Editor/generate_xml_from_google_services_json.exe
+Assets/Firebase/Editor/generate_xml_from_google_services_json.exe.meta
+Assets/Firebase/Editor/generate_xml_from_google_services_json.py
+Assets/Firebase/Editor/generate_xml_from_google_services_json.py.meta
+Assets/Firebase/Editor/network_request.exe
+Assets/Firebase/Editor/network_request.exe.meta
+Assets/Firebase/Editor/network_request.py
+Assets/Firebase/Editor/network_request.py.meta
+Assets/Firebase/m2repository.meta
+Assets/Firebase/m2repository/com.meta
+Assets/Firebase/m2repository/com/google.meta
+Assets/Firebase/m2repository/com/google/firebase.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.pom.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.srcaar.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml
+Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.pom.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.srcaar.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml
+Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.pom.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.srcaar.meta
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/maven-metadata.xml
+Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/maven-metadata.xml.meta
+Assets/Firebase/Plugins.meta
+Assets/Firebase/Plugins/Firebase.App.dll
+Assets/Firebase/Plugins/Firebase.App.dll.meta
+Assets/Firebase/Plugins/Firebase.Auth.dll
+Assets/Firebase/Plugins/Firebase.Auth.dll.meta
+Assets/Firebase/Plugins/Firebase.Database.dll
+Assets/Firebase/Plugins/Firebase.Database.dll.meta
+Assets/Firebase/Plugins/Firebase.Platform.dll
+Assets/Firebase/Plugins/Firebase.Platform.dll.meta
+Assets/Firebase/Plugins/Firebase.TaskExtension.dll
+Assets/Firebase/Plugins/Firebase.TaskExtension.dll.meta
+Assets/Firebase/Plugins/Google.MiniJson.dll
+Assets/Firebase/Plugins/Google.MiniJson.dll.meta
+Assets/Firebase/Plugins/iOS.meta
+Assets/Firebase/Plugins/iOS/Firebase.App.dll
+Assets/Firebase/Plugins/iOS/Firebase.App.dll.meta
+Assets/Firebase/Plugins/iOS/Firebase.Auth.dll
+Assets/Firebase/Plugins/iOS/Firebase.Auth.dll.meta
+Assets/Firebase/Plugins/iOS/Firebase.Database.dll
+Assets/Firebase/Plugins/iOS/Firebase.Database.dll.meta
+Assets/Firebase/Plugins/x86_64.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_8_1.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_8_1.bundle.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_8_1.dll
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_8_1.dll.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_8_1.so
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_8_1.so.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.bundle.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.dll
+Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.dll.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.so
+Assets/Firebase/Plugins/x86_64/FirebaseCppAuth.so.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.bundle.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.dll
+Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.dll.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.so
+Assets/Firebase/Plugins/x86_64/FirebaseCppDatabase.so.meta
+Assets/GeneratedLocalRepo/Firebase.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.aar
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.aar.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.pom
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.8.1/firebase-app-unity-11.8.1.pom.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.aar
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.aar.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.pom
+Assets/ExternalDependencyManager.meta
+Assets/ExternalDependencyManager/Editor.meta
+Assets/ExternalDependencyManager/Editor/1.2.169.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.IOSResolver.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.IOSResolver.dll.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.JarResolver.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.JarResolver.dll.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.PackageManagerResolver.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.PackageManagerResolver.dll.meta
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.VersionHandlerImpl.dll
+Assets/ExternalDependencyManager/Editor/1.2.169/Google.VersionHandlerImpl.dll.meta
+Assets/ExternalDependencyManager/Editor/CHANGELOG.md
+Assets/ExternalDependencyManager/Editor/CHANGELOG.md.meta
+Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.169_manifest.txt
+Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.169_manifest.txt.meta
+Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll
+Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll.meta
+Assets/ExternalDependencyManager/Editor/LICENSE
+Assets/ExternalDependencyManager/Editor/LICENSE.meta
+Assets/ExternalDependencyManager/Editor/README.md
+Assets/ExternalDependencyManager/Editor/README.md.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity/11.8.1/firebase-auth-unity-11.8.1.pom.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.aar
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.aar.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.pom
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity/11.8.1/firebase-database-unity-11.8.1.pom.meta
+Assets/google-services.json
+Assets/google-services.json.meta
+Assets/GoogleMobileAds/CHANGELOG.md
+Assets/GoogleMobileAds/CHANGELOG.md.meta
+Assets/GoogleMobileAds/Editor/BuildPreProcessor.cs.meta
+Assets/GoogleMobileAds/Editor/EditorPathUtils.cs.meta
+Assets/GoogleMobileAds/Editor/GoogleMobileAds.Editor.asmdef.meta
+Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml
+Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml.meta
+Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettings.cs.meta
+Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettingsEditor.cs.meta
+Assets/GoogleMobileAds/Editor/GoogleMobileAdsSKAdNetworkItems.xml.meta
+Assets/GoogleMobileAds/Editor/GoogleUmpDependencies.xml
+Assets/GoogleMobileAds/Editor/GoogleUmpDependencies.xml.meta
+Assets/GoogleMobileAds/Editor/GradleProcessor.cs.meta
+Assets/GoogleMobileAds/Editor/ManifestProcessor.cs.meta
+Assets/GoogleMobileAds/Editor/PListProcessor.cs.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/1024x768.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/300x250.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/320x100.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/320x480.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/320x50.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/468x60.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/480x320.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/728x90.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/768x1024.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdImages/AdInspectorHome.png.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AdInspector/768x1024.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AppOpen/1024x768.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/AppOpen/768x1024.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/ADAPTIVE.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/BANNER.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/CENTER.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/FULL_BANNER.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/LARGE_BANNER.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/LEADERBOARD.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/MEDIUM_RECTANGLE.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/SMART_BANNER.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Interstitials/1024x768.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Interstitials/768x1024.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Rewarded/1024x768.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Rewarded/768x1024.prefab.meta
+Assets/GoogleMobileAds/Editor/Resources/Ump/ConsentForm.png.meta
+Assets/GoogleMobileAds/Editor/Resources/Ump/ConsentForm.prefab.meta
+Assets/GoogleMobileAds/Editor/Utils.cs.meta
+Assets/GoogleMobileAds/GoogleMobileAds.Android.dll
+Assets/GoogleMobileAds/GoogleMobileAds.Android.dll.meta
+Assets/GoogleMobileAds/GoogleMobileAds.Common.dll
+Assets/GoogleMobileAds/GoogleMobileAds.Common.dll.meta
+Assets/GoogleMobileAds/GoogleMobileAds.Core.dll
+Assets/GoogleMobileAds/GoogleMobileAds.Core.dll.meta
+Assets/GoogleMobileAds/GoogleMobileAds.dll
+Assets/GoogleMobileAds/GoogleMobileAds.dll.meta
+Assets/GoogleMobileAds/GoogleMobileAds.iOS.dll
+Assets/GoogleMobileAds/GoogleMobileAds.iOS.dll.meta

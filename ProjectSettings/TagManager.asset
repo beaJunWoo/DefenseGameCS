@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnUI
+  - Bullet
+  - Army
+  - Enemy
+  - Wall
+  - DestroyWall
+  - TargetSpawnObj
+  - FxTemporaire
+  - Tile
+  - Base
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - TargetSpawnObj
+  - Water
+  - UI
+  - Enemy
+  - Army
+  - EnemyBullet
+  - ArmyBullet
+  - NoTargetSpawnObj
+  - Tile
+  - SpawnTIle
+  - Placement
+  - ParentObj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 2198075217
+    locked: 0

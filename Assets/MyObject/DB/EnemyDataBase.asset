@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78bb766192ac1834c87b6fe735b7bdf7, type: 3}
+  m_Name: EnemyDataBase
+  m_EditorClassIdentifier: 
+  enemyData:
+  - enemyType: 0
+    Hp: 12
+    bulletDamage: 1
+    Speed: 7
+    max_MagazineCapacity: 7
+    minRandomCoin: 10
+    maxRandomCoin: 20
+  - enemyType: 1
+    Hp: 20
+    bulletDamage: 0.5
+    Speed: 10
+    max_MagazineCapacity: 30
+    minRandomCoin: 0
+    maxRandomCoin: 20
+  - enemyType: 2
+    Hp: 10
+    bulletDamage: 1
+    Speed: 8.5
+    max_MagazineCapacity: 1
+    minRandomCoin: 0
+    maxRandomCoin: 35
+  - enemyType: 3
+    Hp: 80
+    bulletDamage: 0.8
+    Speed: 15
+    max_MagazineCapacity: 50
+    minRandomCoin: 30
+    maxRandomCoin: 50

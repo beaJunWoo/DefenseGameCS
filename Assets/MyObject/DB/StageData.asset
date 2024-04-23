@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0df3fbec5249f4941802493827d2a48f, type: 3}
+  m_Name: StageData
+  m_EditorClassIdentifier: 
+  stageData:
+  - Stage: 1
+    StageLv: 1
+    DefaultMony: 600
+    TotalDefenseTime: 60
+    WaveTime: 40
+    WaveDuration: 20
+    EnemySpawnTime:
+    - 5
+    - 1e+14
+    - 1e+19
+    WaveEnemySpawnTime:
+    - 3
+    - 1e+16
+    - 1e+21
+  - Stage: 1
+    StageLv: 2
+    DefaultMony: 600
+    TotalDefenseTime: 120
+    WaveTime: 40
+    WaveDuration: 15
+    EnemySpawnTime:
+    - 3
+    - 7.5e+14
+    - 7.5e+14
+    WaveEnemySpawnTime:
+    - 2.5
+    - 7.5e+14
+    - 7.4999996e+12
+  - Stage: 1
+    StageLv: 3
+    DefaultMony: 1000
+    TotalDefenseTime: 140
+    WaveTime: 40
+    WaveDuration: 20
+    EnemySpawnTime:
+    - 10
+    - 12
+    - 1.3348387e+10
+    WaveEnemySpawnTime:
+    - 6
+    - 10
+    - 1.33483905e+11
+  - Stage: 2
+    StageLv: 1
+    DefaultMony: 2000
+    TotalDefenseTime: 120
+    WaveTime: 40
+    WaveDuration: 20
+    EnemySpawnTime:
+    - 10
+    - 15
+    - 1e+11
+    WaveEnemySpawnTime:
+    - 5
+    - 8
+    - 100000000
+  - Stage: 2
+    StageLv: 2
+    DefaultMony: 2400
+    TotalDefenseTime: 120
+    WaveTime: 40
+    WaveDuration: 20
+    EnemySpawnTime:
+    - 10
+    - 20
+    - 25
+    WaveEnemySpawnTime:
+    - 7
+    - 15
+    - 25
+  - Stage: 2
+    StageLv: 3
+    DefaultMony: 6000
+    TotalDefenseTime: 120
+    WaveTime: 60
+    WaveDuration: 60
+    EnemySpawnTime:
+    - 10
+    - 15
+    - 30
+    WaveEnemySpawnTime:
+    - 8
+    - 13
+    - 28
+  - Stage: 3
+    StageLv: 1
+    DefaultMony: 6000
+    TotalDefenseTime: 150
+    WaveTime: 30
+    WaveDuration: 15
+    EnemySpawnTime:
+    - 10
+    - 100000000
+    - 10
+    WaveEnemySpawnTime:
+    - 2
+    - 1e+9
+    - 5
+  - Stage: 3
+    StageLv: 2
+    DefaultMony: 6000
+    TotalDefenseTime: 150
+    WaveTime: 30
+    WaveDuration: 15
+    EnemySpawnTime:
+    - 10
+    - 4
+    - 10
+    WaveEnemySpawnTime:
+    - 10
+    - 2
+    - 10
+  - Stage: 3
+    StageLv: 3
+    DefaultMony: 6000
+    TotalDefenseTime: 200
+    WaveTime: 40
+    WaveDuration: 30
+    EnemySpawnTime:
+    - 4
+    - 4
+    - 4
+    WaveEnemySpawnTime:
+    - 3
+    - 3
+    - 3
+  - Stage: 4
+    StageLv: 1
+    DefaultMony: 6000
+    TotalDefenseTime: 200
+    WaveTime: 30
+    WaveDuration: 20
+    EnemySpawnTime:
+    - 2
+    - 999999
+    - 100000000
+    WaveEnemySpawnTime:
+    - 1
+    - 100000000
+    - 9999999
+  - Stage: 4
+    StageLv: 2
+    DefaultMony: 6000
+    TotalDefenseTime: 250
+    WaveTime: 10
+    WaveDuration: 10
+    EnemySpawnTime:
+    - 2
+    - 10
+    - 1e+10
+    WaveEnemySpawnTime:
+    - 1
+    - 5
+    - 1e+11
+  - Stage: 4
+    StageLv: 3
+    DefaultMony: 6000
+    TotalDefenseTime: 200
+    WaveTime: 20
+    WaveDuration: 10
+    EnemySpawnTime:
+    - 2
+    - 10
+    - 15
+    WaveEnemySpawnTime:
+    - 1
+    - 4
+    - 10
